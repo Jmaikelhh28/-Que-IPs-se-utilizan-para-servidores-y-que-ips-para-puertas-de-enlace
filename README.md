@@ -4,7 +4,7 @@ Estan clasificado entre dos tipos, tanto las públicas como las privadas.
 
 **IPs Pública:**
 
-***Estática***
+***Dinámica***
 
 Se asignan de forma fija y son ideales para servidores que necesitan ser accesible desde internet de forma constante, como servidores web, de correo electonico, etc...
 
