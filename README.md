@@ -6,11 +6,11 @@ Estan clasificado entre dos tipos, tanto las públicas como las privadas.
 
 ***Estática***
 
-Se asignan de forma fija y son ideales para seervidores que necesitan ser accesible desde internet de forma constane, como seervidores web, de correo electonico, etc...
+Se asignan de forma fija y son ideales para servidores que necesitan ser accesible desde internet de forma constante, como servidores web, de correo electonico, etc...
 
 ***Dinámica:***
 
-Se asigna de forma temporal y pueden cambiar. Son menos comunes para servidores, pero pueden utilizar en algunos casos, como servidores de desarrollo o de prueba.+
+Se asigna de forma temporal y pueden cambiar. Son menos comunes para servidores, pero pueden utilizar en algunos casos, como servidores de desarrollo o de prueba.
 
 **IPs Privadas:**
 
